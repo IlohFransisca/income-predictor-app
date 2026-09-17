@@ -3,7 +3,7 @@
 A machine learning web application that predicts whether an individual earns more than $50K per year based on U.S. census data. The app uses a **CatBoost Classifier** trained on 48,842 records with 15 demographic and economic features.
 
 ## Live Demo
-**[Click here to view the live app]((https://income-predictor-app-hzt2hzylvcn8qf5wb8hgrr.streamlit.app/))** *(Replace with your actual URL)*
+**[Click here to view the live app](https://income-predictor-app-hzt2hzylvcn8qf5wb8hgrr.streamlit.app/)
 
 ---
 
