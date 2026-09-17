@@ -24,7 +24,7 @@ st.sidebar.write("**Iloh Fransisca Onyinyechukwu**")
 st.sidebar.write("Data Scientist Enthusiast")
 st.sidebar.write(
     "Passionate about using machine learning to uncover insights "
-    "in socioeconomic data and build accessible tools for everyone."
+    "using real world dataset and build accessible tools for everyone."
 )
 
 st.sidebar.markdown("---")
