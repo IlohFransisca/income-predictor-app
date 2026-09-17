@@ -97,9 +97,12 @@ Built with: Streamlit, CatBoost, Scikit-Learn, Pandas, NumPy
 
 ```text
 income-prediction-app/
+├── .devcontainer/             # Dev container configuration
 ├── app.py                     # Main Streamlit application
 ├── best_catboost_model.cbm    # Trained CatBoost model
-├── scaler.pkl                 # Fitted StandardScaler
 ├── expected_columns.pkl       # List of columns after one-hot encoding
+├── income_data.csv            # Raw UCI Census Income dataset
+├── money_image.png            # Header image for the app
+├── scaler.pkl                 # Fitted StandardScaler
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Project documentation
